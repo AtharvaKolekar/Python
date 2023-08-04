@@ -12,3 +12,4 @@ print("Reversed integer is: " + str(reversed_num))
 
 ### Easier Way ###
 #print(str(num)[::-1])
+
